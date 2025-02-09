@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #ffffff95;
+}
+.slanted-button {
+    display: inline-block;
+    padding: 15px 40px;
+    background-color: #0d6efd;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    position: relative;
+    clip-path: polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%);
+    border: none;
+}
+.card{
+    background: #c9c9ff36;
+}
