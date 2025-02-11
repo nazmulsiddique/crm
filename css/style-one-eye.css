@@ -1,0 +1,33 @@
+body {
+    background-image: url(https://oneeye.waltonbd.com/images/update-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+.btn-custom-white{
+    padding: 15px 40px;
+    background-color: #ffefc3;
+    color: #000;
+    font-size: 16px;
+    font-weight: bold;
+}
+.slanted-button {
+    display: inline-block;
+    padding: 15px 40px;
+    background-color: #ffefc3;
+    color: #000;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    position: relative;
+    clip-path: polygon(10% 0%, 100% 0%, 90% 100%, 0% 100%);
+    border: none;
+}
+.crm-db .card{
+    background: linear-gradient(270deg, #9B56A2 5.54%, #834E9F 28.84%, #463A96 77.24%, #2D3293 95.17%);
+    /* background: linear-gradient(265.22deg, #6F8E2A -91.53%, #01677A 107.34%); */
+    color: #fff;
+    border: 0px solid;
+}
